@@ -1,0 +1,27 @@
+{
+  "name": "mern_ecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstibi/MERN_eCommerce.git"
+  },
+  "keywords": [
+    "shop",
+    "ecomerce"
+  ],
+  "author": "gstibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gstibi/MERN_eCommerce/issues"
+  },
+  "homepage": "https://github.com/gstibi/MERN_eCommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
